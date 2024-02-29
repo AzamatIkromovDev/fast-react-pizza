@@ -1,5 +1,5 @@
-const Username = () => {
-  return <div className="texr-sm hidden font-semibold"> Azamat Ikromov</div>;
-};
+function Username() {
+  return <div className="hidden text-sm font-semibold md:block">Jonas</div>;
+}
 
 export default Username;
